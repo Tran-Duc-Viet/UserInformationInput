@@ -146,11 +146,12 @@
 
     <EditText
         android:id="@+id/addressEditText"
-        android:layout_width="412dp"
+        android:layout_width="0dp"
         android:layout_height="83dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:minHeight="48dp"
+        android:hint="Addrees"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
